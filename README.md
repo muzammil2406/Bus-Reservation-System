@@ -12,6 +12,7 @@ CHANGE password AND DONT FORGET TO SAVE & COMPILE IT AFTER EDITING.
 DON'T DELETE THE (.txt) FILES INSIDE THE MAIN PROJECT FOLDER
 BECAUSE IT's THE DATABASE OF THIS PROJECT
 
+![image](https://github.com/user-attachments/assets/9eefadb7-e9a9-49b2-a416-46bd695205e7)
 
 ![image](https://github.com/user-attachments/assets/aed0c5f9-7ad9-4ea3-bfde-efd14af9c9ce)
 
